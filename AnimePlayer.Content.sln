@@ -3,24 +3,19 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "News", "News", "{05E44D28-191E-422E-B862-8EFAAECDBCFE}"
-	ProjectSection(SolutionItems) = preProject
-		empty_file_News.txt = empty_file_News.txt
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Community", "Community", "{D0A376E7-AEC2-484C-B9D1-503DED313D81}"
-	ProjectSection(SolutionItems) = preProject
-		empty_file_Community.txt = empty_file_Community.txt
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PagesItems", "PagesItems", "{AEE25A7D-3BFB-449D-969A-C537A4EF4130}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DataIndexer", "DataIndexer", "{58077A54-A59A-412B-BE4C-F8A4EB8E58F3}"
-	ProjectSection(SolutionItems) = preProject
-		empty_file_DataIndexer.txt = empty_file_DataIndexer.txt
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APC", "APC\APC.csproj", "{AD210EDB-99B5-4D8D-B7DB-3EEA27CD45EA}"
 EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD210EDB-99B5-4D8D-B7DB-3EEA27CD45EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD210EDB-99B5-4D8D-B7DB-3EEA27CD45EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD210EDB-99B5-4D8D-B7DB-3EEA27CD45EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD210EDB-99B5-4D8D-B7DB-3EEA27CD45EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
