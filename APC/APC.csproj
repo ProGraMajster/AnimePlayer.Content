@@ -37,7 +37,12 @@
     <None Include="PreviewItems\Darling_in_the_Franxx.dat" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="Community\" />
+    <Folder Include="News\" />
     <Folder Include="PagesItems\" />
+    <Folder Include="SettingsNotForTheUser\" />
+    <Folder Include="VideosItems\" />
+    <Folder Include="Web\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
