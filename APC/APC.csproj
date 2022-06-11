@@ -33,14 +33,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\Community\**" />
-    <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\Defined\**" />
-    <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\News\**" />
-    <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\PagesItems\**" />
-    <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\PreviewItems\**" />
-    <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\SettingsNotForUser\**" />
-    <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\VideosItems\**" />
-    <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\Web\**" />
+    <Content Include="Community\**" />
+    <Content Include="Defined\**" />
+    <Content Include="News\**" />
+    <Content Include="PagesItems\**" />
+    <Content Include="PreviewItems\**" />
+    <Content Include="SettingsNotForUser\**" />
+    <Content Include="VideosItems\**" />
+    <Content Include="Web\**" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
