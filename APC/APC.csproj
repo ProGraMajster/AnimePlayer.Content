@@ -32,18 +32,15 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
-  <ItemGroup>
-    <None Include="App.config" />
-    <None Include="Defined\Akcja.dat" />
-    <None Include="PreviewItems\Darling_in_the_Franxx.dat" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Community\" />
-    <Folder Include="News\" />
-    <Folder Include="PagesItems\" />
-    <Folder Include="SettingsNotForTheUser\" />
-    <Folder Include="VideosItems\" />
-    <Folder Include="Web\" />
-  </ItemGroup>
+<ItemGroup>
+   <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\Community\**" />
+   <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\Defined\**" />
+   <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\News\**" />
+   <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\PagesItems\**" />
+   <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\PreviewItems\**" />
+   <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\SettingsNotForUser\**" />
+   <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\VideosItems\**" />
+   <Content Include="C:\Users\ssass\source\repos\AnimePlayer.Content\APC\Web\**" />
+</ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-</Project>
+		</Project>
