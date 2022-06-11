@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="Defined\Akcja.dat" />
     <None Include="PreviewItems\Darling_in_the_Franxx.dat" />
   </ItemGroup>
   <ItemGroup>
