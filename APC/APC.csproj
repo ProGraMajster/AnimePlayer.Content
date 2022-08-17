@@ -42,8 +42,6 @@
     <Content Include="VideosItems\**" />
     <Content Include="Web\**" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="VideosItems\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
