@@ -42,8 +42,9 @@
     <Content Include="VideosItems\**" />
     <Content Include="Web\**" />
   </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
-    <Folder Include="ItemGroups\" />
+    <None Include="ItemGroups\Z roku 2022.dat" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
