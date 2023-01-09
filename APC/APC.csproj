@@ -42,7 +42,9 @@
     <Content Include="VideosItems\**" />
     <Content Include="Web\**" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Folder Include="TitleComments\" />
+  </ItemGroup>
   <ItemGroup>
     <None Include="ItemGroups\Z roku 2022.dat" />
   </ItemGroup>
