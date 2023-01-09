@@ -40,13 +40,9 @@
     <Content Include="PreviewItems\**" />
     <Content Include="SettingsNotForUser\**" />
     <Content Include="VideosItems\**" />
+    <Content Include="TitleComments\**" />
     <Content Include="Web\**" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="TitleComments\" />
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="ItemGroups\Z roku 2022.dat" />
+    <Content Include="ItemGroups\**" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
