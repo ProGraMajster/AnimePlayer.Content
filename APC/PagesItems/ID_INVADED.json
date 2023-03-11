@@ -1,0 +1,48 @@
+{
+  "TitleInformation": {
+    "Title": "ID:INVADED",
+    "OtherTitle": [
+      "\u30A4\u30C9\uFF1A\u30A4\u30F3\u30F4\u30A7\u30A4\u30C7\u30C3\u30C9",
+      "ID : INVADED"
+    ],
+    "Description": "Historia skupia si\u0119 na genialnym detektywie Sakaido, kt\u00F3ry przez swoje czyny z przesz\u0142o\u015Bci musi wsp\u00F3\u0142pracowa\u0107 z policj\u0105, by pom\u00F3c im znale\u017A\u0107 zimnokrwistych morderc\u00F3w. Jednak\u017Ce do rozwi\u0105zywania spraw detektyw b\u0119dzie korzysta\u0142 z systemu ID \u2013 wirtualnego \u015Bwiata, w kt\u00F3rym wszelkie znane nam prawa fizyki nie istniej\u0105. System nie jest idealny, gdy\u017C za ka\u017Cdym razem, kiedy Sakaido po\u0142\u0105czy si\u0119 z wirtualnym \u015Bwiatem, traci prawie wszystkie wspomnienia. Jedynie pami\u0119ta imi\u0119 pewnej dziewczyny, Kaeru, kt\u00F3r\u0105 zawsze widzi martw\u0105 w tym zwariowanym \u015Bwiecie...",
+    "Species": [
+      "Tajemnica",
+      "Kryminalne",
+      "Psychologiczne",
+      "Sci-Fi"
+    ],
+    "TargetGroups": "Dla dzieci",
+    "TypesOfCharacters": [
+      "Detektywi",
+      "Przest\u0119pcy",
+      "Policjanci"
+    ],
+    "PlaceAndTime": [
+      "W grze / VR"
+    ],
+    "OtherTags": [
+      "Manipulacja czasem i przestrzeni\u0105",
+      "Amnezja"
+    ],
+    "Archetype": "Seria oryginalna",
+    "Type": "TV",
+    "Status": "Zako\u0144czone",
+    "DateOfIssue": "06.01.2020",
+    "EndOfIssue": "23.03.2020",
+    "NumberOfEpisodes": "13",
+    "Studio": [
+      "Toei Animation",
+      "NAZ",
+      "Kadokawa Media House",
+      "Funimation",
+      "Kadokawa",
+      "Nippon BS Broadcasting Corporation",
+      "NTT Plala"
+    ],
+    "EpisodeLength": "24",
+    "MPAA": "R"
+  },
+  "RelatedTitles": null,
+  "S_ID": "ID_INVADED"
+}
