@@ -35,6 +35,7 @@
   <ItemGroup>
     <Content Include="Community\**" />
     <Content Include="Defined\**" />
+    <Content Include="k.txt" />
     <Content Include="News\**" />
     <Content Include="PagesItems\**" />
     <Content Include="PreviewItems\Akebi-chan no Sailor Fuku.dat" />
