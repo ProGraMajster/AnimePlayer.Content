@@ -1,0 +1,44 @@
+{
+  "TitleInformation": {
+    "Title": "Tokyo Ghoul: Jack",
+    "OtherTitle": [
+      "\u6771\u4EAC\u55B0\u7A2E\uFF0D\u30C8\u30FC\u30AD\u30E7\u30FC\u30B0\u30FC\u30EB\uFF0D [JACK]"
+    ],
+    "Description": "Fabu\u0142a skupia si\u0119 na m\u0142odym ch\u0142opaku Kishou Arima. W dzie\u0144 jest on uczniem szko\u0142y \u015Bredniej lecz w nocy staje si\u0119 on \u015Bledczym.\nAkcja zaczyna si\u0119 od morderstwa w 13 dzielnicy Tokyo. Wiadomo\u015B\u0107 ta rozprzestrzenia si\u0119 po ca\u0142ym mie\u015Bcie. \u015Aledczy szukaj\u0105 dowod\u00F3w i wszystko wskazuje na to i\u017C sprawc\u0105 by\u0142 Ghoul.",
+    "Species": [
+      "Akcja",
+      "Dramat",
+      "Tajemnica",
+      "Nadprzyrodzone",
+      "Horror",
+      "Psychologiczne",
+      "Szkolne"
+    ],
+    "TargetGroups": "Seinen",
+    "TypesOfCharacters": [
+      "Uczniowie",
+      "Morderca"
+    ],
+    "PlaceAndTime": [
+      "Wsp\u00F3\u0142czesno\u015B\u0107",
+      "Japonia",
+      "Miasto"
+    ],
+    "OtherTags": [
+      "Przemoc"
+    ],
+    "Archetype": "Manga",
+    "Type": "OVA",
+    "Status": "Zako\u0144czone",
+    "DateOfIssue": "30.09.2015 16:32:50",
+    "EndOfIssue": "30.09.2015 16:32:50",
+    "NumberOfEpisodes": "1",
+    "Studio": [
+      "Studio Pierrot"
+    ],
+    "EpisodeLength": "30",
+    "MPAA": "R"
+  },
+  "RelatedTitles": null,
+  "S_ID": "Tokyo Ghoul_ Jack"
+}
