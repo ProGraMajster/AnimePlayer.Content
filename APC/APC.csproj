@@ -45,6 +45,7 @@
     <Content Include="ItemGroups\**" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="NewsRssMal.json" />
     <None Include="PagesItems\Oshi no Ko.json" />
     <None Include="PreviewItems\Akebi-chan no Sailor Fuku.json" />
     <None Include="PreviewItems\Angel Beats!.json" />
