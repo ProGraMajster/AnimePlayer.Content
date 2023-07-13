@@ -46,8 +46,8 @@
     "Archetype": "Manga",
     "Type": "TV",
     "Status": "Emitowane",
-    "DateOfIssue": "20.10.1999 12:08:48",
-    "EndOfIssue": "20.10.1999 12:08:48",
+    "DateOfIssue": "20.10.1999",
+    "EndOfIssue": null,
     "NumberOfEpisodes": "1068",
     "Studio": [
       "Toei Animation",
