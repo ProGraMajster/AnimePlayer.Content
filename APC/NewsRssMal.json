@@ -1,10 +1,42 @@
-﻿{
+{
   "rss": {
     "channel": {
       "title": "News - MyAnimeList",
       "description": "MyAnimeList's Feed of News",
       "link": "https://myanimelist.net/news?_location=rss",
       "item": [
+        {
+          "guid": "https://myanimelist.net/news/69534140?_location=rss",
+          "title": "Manga '30-sai made Doutei dato Mahoutsukai ni Nareru Rashii' Gets TV Anime",
+          "description": "Avex Pictures opened an official website for a television anime adaptation of Yuu Toyota&#039;s 30-sai made Doutei dato Mahoutsukai ni Nareru Rashii (Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!) manga on Friday, revealing the main cast, staff, and a teaser visual (pictured). Chiaki Kobayashi (Mashle, Jigokuraku) and Ryouta Suzuki (Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen, Tsurune: Kazemai Koukou Kyuudou-bu) are starring as Kiyoshi Adachi and Yuuichi Kurosawa...",
+          "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1689334120-c8111ee8e7119ffe136ecb05e589b565.jpeg",
+          "pubDate": "Fri, 14 Jul 2023 13:28:55 +0200",
+          "link": "https://myanimelist.net/news/69534140?_location=rss"
+        },
+        {
+          "guid": "https://myanimelist.net/news/69532298?_location=rss",
+          "title": "'Hi no Tori: Eden no Sora' Announces Main Cast, Additional Staff, September 13 Debut, 'Eden no Hana' Movie to Follow with Alternate Ending",
+          "description": "Studio 4&deg;C announced the main cast and additional staff for the Hi no Tori: Eden no Sora (PHOENIX: EDEN17) original net anime on Friday. The anime is scheduled to debut worldwide on Disney+ on September 13. Happinet Phantom Studios opened an official website for a movie version of the net anime featuring an alternative ending titled Hi no Tori: Eden no Hana (Phoenix: Reminiscence of Flower), revealing a teaser visual (pictured) and a teaser trailer. The movie will open in Japanese theaters o...",
+          "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1689304160-655bc9cc6c910b69fd70cb321ca3d571.png",
+          "pubDate": "Fri, 14 Jul 2023 05:15:32 +0200",
+          "link": "https://myanimelist.net/news/69532298?_location=rss"
+        },
+        {
+          "guid": "https://myanimelist.net/news/69531065?_location=rss",
+          "title": "'Rail Romanesque 2nd Season' Unveils Main Staff, Fall 2023 Premiere",
+          "description": "The official Twitter of the Rail Romanesque 2nd Season television anime unveiled the main staff and a key visual on Thursday. The short television anime is set to air in October 2023 on Tokyo MX. Staff Director: Michiru Ebira Character Design: Hiroaki Satou (Gamers!) Art Director: Tsuyoshi Ogata (Kagoshima Ramecahirim) Color Design: Yuusei Kashima Director of Photography: Ryouhei Miyasaka (Assassins Pride) Sound Director: Kisuke Koizumi (Chainsaw Man) Studio: Yokohama Animation Lab Rail Romanesq...",
+          "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1689284350-c9f7b21e4bea1d21ad242bf8508a14ca.jpeg",
+          "pubDate": "Thu, 13 Jul 2023 23:41:39 +0200",
+          "link": "https://myanimelist.net/news/69531065?_location=rss"
+        },
+        {
+          "guid": "https://myanimelist.net/news/69529665?_location=rss",
+          "title": "'Kanojo mo Kanojo' 2nd Season Reveals Additional Staff, Teaser Promo",
+          "description": "The official website for the Kanojo mo Kanojo (Girlfriend, Girlfriend) television anime revealed additional staff members, key visual (pictured), and a teaser promotional video for the second season on Friday. The anime will premiere in October 2023 on MBS, TBS, and BS-TBS&#039; Animeism programming block. Script: Keiichirou Oochi (Kanojo mo Kanojo), Kazuhiko Inukai (High Card) Art Director: Masakazu Miyake (Marvy Jack) (Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken) NEW Co...",
+          "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1689265762-ca4ebb2102c5e9ff8b5ad5ffa7cb2b7f.png",
+          "pubDate": "Thu, 13 Jul 2023 18:28:42 +0200",
+          "link": "https://myanimelist.net/news/69529665?_location=rss"
+        },
         {
           "guid": "https://myanimelist.net/news/69529051?_location=rss",
           "title": "'Under Ninja' Announces Additional Cast",
@@ -16,7 +48,7 @@
         {
           "guid": "https://myanimelist.net/news/69528882?_location=rss",
           "title": "'Majo to Yajuu' Reveals Main Cast, Staff, Teaser Promo, Winter 2024 Premiere",
-          "description": "Television channel TBS opened an official website for the Majo to Yajuu (The Witch and the Beast) television anime series on Thursday. The website revealed the main cast, staff, teaser visual (pictured), and a teaser promotional video on Thursday. The anime is scheduled to premiere on January 2024 on TBS and BS11. You Taichi (Princess Principal) and Toshiyuki Morikawa (JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai) are starring as Guideau and Ashaf, respectively. Takayuki Hamana (Arte, M...",
+          "description": "Television channel TBS opened an official website for the Majo to Yajuu (The Witch and the Beast) television anime series on Thursday. The website revealed the main cast, staff, teaser visual (pictured), and a teaser promotional video. The anime is scheduled to premiere on January 2024 on TBS and BS11. You Taichi (Princess Principal) and Toshiyuki Morikawa (JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai) are starring as Guideau and Ashaf, respectively. Takayuki Hamana (Arte, Majutsushi Or...",
           "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1689257721-4a98d155cb426560a6c7a7c98cc0f973.jpeg",
           "pubDate": "Thu, 13 Jul 2023 16:17:43 +0200",
           "link": "https://myanimelist.net/news/69528882?_location=rss"
@@ -132,38 +164,6 @@
           "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1688743395-59018ad8f07e4d505c7726c7bd855672.png",
           "pubDate": "Fri, 07 Jul 2023 17:23:59 +0200",
           "link": "https://myanimelist.net/news/69491232?_location=rss"
-        },
-        {
-          "guid": "https://myanimelist.net/news/69487257?_location=rss",
-          "title": "Light Novel 'Henjin no Salad Bowl' Gets TV Anime",
-          "description": "A television anime adaptation of Yomi Hirasaka&#039;s Henjin no Salad Bowl (Salad Bowl of Eccentrics) light novel has been announced on Thursday and revealed an illustration (pictured) to commemorate the announcement. Hirasaka began penning the fantasy comedy novel under the Shogakukan&#039;s Gagaga Bunko imprint in October 2021, with illustrations by Kantoku. Both previously worked together on the Imouto sae Ireba Ii. (A Sister&#039;s All You Need.) light novel. Shogakukan shipped the fourth vo...",
-          "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1688678372-e4fdcd63d5da976c697ec317def991e3.jpeg",
-          "pubDate": "Thu, 06 Jul 2023 23:20:48 +0200",
-          "link": "https://myanimelist.net/news/69487257?_location=rss"
-        },
-        {
-          "guid": "https://myanimelist.net/news/69485927?_location=rss",
-          "title": "North American Anime & Manga Releases for July",
-          "description": "Here are the North American anime, manga, and light novel releases for July. Week 1: July 4 - 10 Anime Releases Obey Me! Season 2 (Obey Me! The Anime: Season 2) Complete Collection Blu-ray One Piece Season 13, Voyage 1 Blu-ray &amp; DVD Combo [incl. episodes 783-794] Re:cycle of the Penguindrum Movie Collection Blu-ray Shokei Shoujo no Virgin Road (The Executioner and Her Way of Life) Complete Collection Blu-ray Manga Releases Ao no Hako (Blue Box) Vol.5 Boushoku no Berserk: Ore dake Level to Iu...",
-          "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1688659093-aee680439a505a664f56ea147ceee2a6.jpeg",
-          "pubDate": "Thu, 06 Jul 2023 18:58:46 +0200",
-          "link": "https://myanimelist.net/news/69485927?_location=rss"
-        },
-        {
-          "guid": "https://myanimelist.net/news/69478808?_location=rss",
-          "title": "Manga 'Yubisaki to Renren' Gets TV Anime for Winter 2024",
-          "description": "An official website opened for a television anime adaptation of Suu Morishita&#039;s Yubisaki to Renren (A Sign of Affection) manga on Wednesday. The website also revealed the main cast, staff, teaser visual (pictured), and a teaser promotional video. The anime is scheduled to premiere in January 2024. Sumire Morohoshi (Yakusoku no Neverland) and Yuu Miyazaki (Haikyuu!! To the Top) are starring as Yuki Itose and Itsuomi Nagi, respectively. Staff Director, Storyboard: Yuuta Murano (Kakushigoto) S...",
-          "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1688560467-81cf6138a4990ac60410ee145ddf7cd0.jpeg",
-          "pubDate": "Wed, 05 Jul 2023 14:35:01 +0200",
-          "link": "https://myanimelist.net/news/69478808?_location=rss"
-        },
-        {
-          "guid": "https://myanimelist.net/news/69470875?_location=rss",
-          "title": "'Kikansha no Mahou wa Tokubetsu desu' Unveils Production Staff, Additional Cast, First Promo, Fall 2023 Premiere",
-          "description": "The Crunchyroll Industry panel at Anime Expo 2023 revealed on Monday the production staff, additional cast, opening theme, and first promo for the television anime adaptation of Yu So-nan and Uk-jakga&#039;s Kikansha no Mahou wa Tokubetsu desu (A Returner&#039;s Magic Should Be Special) manhwa. The anime is scheduled to premiere in October 2023. Sayumi Suzushiro (Bocchi the Rock!) and Natsumi Fujiwara (Great Pretender) are joining the cast as Romantica Eru and Pram Schneider, respectively. Staff...",
-          "thumbnail": "https://cdn.myanimelist.net/s/common/uploaded_files/1688441705-bf18cccf2ab5e27f47017fa18702adab.jpeg",
-          "pubDate": "Tue, 04 Jul 2023 05:35:16 +0200",
-          "link": "https://myanimelist.net/news/69470875?_location=rss"
         }
       ]
     }
