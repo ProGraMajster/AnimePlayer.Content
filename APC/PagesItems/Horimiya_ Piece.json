@@ -29,7 +29,7 @@
     "Type": "TV",
     "Status": "Emitowane",
     "DateOfIssue": "01.07.2023 16:41:13",
-    "EndOfIssue": "01.07.2023 16:41:13",
+    "EndOfIssue": null,
     "NumberOfEpisodes": "13",
     "Studio": [
       "Aniplex",
