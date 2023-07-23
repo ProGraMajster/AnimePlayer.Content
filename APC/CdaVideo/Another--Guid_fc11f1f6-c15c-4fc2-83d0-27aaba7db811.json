@@ -1,0 +1,17 @@
+{
+  "Episode": {
+    "Title": "Another",
+    "NumberEpisode": "10",
+    "TitleOfEpisode": "Szklane oko.",
+    "Type": "Napisy PL",
+    "AudioLanguage": "Japo\u0144ski",
+    "SubtitleLanguage": "Polski",
+    "LinkToEpisode": "https://www.cda.pl/video/7198289a1",
+    "TranslationCreator": "Kurenai/Yuki",
+    "TranslationCreatorAdditionalInformation": "napisy: Kurenai/Yuki\nkorekta: Kalayit\nnapisy doda\u0142: VistaGames"
+  },
+  "Link360p": "\u0022https://vwaw082.cda.pl/laCJVdlb3N0wQz2iyDuokg/1690172100/vlcf6016162d819fa7ded74d179faa223b.mp4\u0022",
+  "Link480p": "\u0022https://vwaw123.cda.pl/62TJawYd0rsJL8xfMBlphw/1690172099/lqcf6016162d819fa7ded74d179faa223b.mp4\u0022",
+  "Link720p": "\u0022https://vwaw010.cda.pl/Jorx5oVHoqDB_MvpRZQ4dQ/1690172097/sdcf6016162d819fa7ded74d179faa223b.mp4\u0022",
+  "Link1080p": "\u0022https://vwaw083.cda.pl/9Nq7IJiFOm1Cx9HxlXTdvA/1690172096/hdcf6016162d819fa7ded74d179faa223b.mp4\u0022"
+}

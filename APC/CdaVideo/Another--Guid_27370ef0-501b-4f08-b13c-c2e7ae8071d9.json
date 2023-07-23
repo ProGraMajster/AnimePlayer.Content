@@ -1,0 +1,17 @@
+{
+  "Episode": {
+    "Title": "Another",
+    "NumberEpisode": "8",
+    "TitleOfEpisode": "Stojak na w\u0142osy.",
+    "Type": "Napisy PL",
+    "AudioLanguage": "Japo\u0144ski",
+    "SubtitleLanguage": "Polski",
+    "LinkToEpisode": "https://www.cda.pl/video/719802522",
+    "TranslationCreator": "Kurenai/Yuki",
+    "TranslationCreatorAdditionalInformation": "napisy: Kurenai/Yuki\nkorekta: Kalayit\nnapisy doda\u0142: VistaGames"
+  },
+  "Link360p": "\u0022https://vwaw113.cda.pl/3SsTT52j-ha2AGhrhZu0eg/1690171333/vl2ff6afb1df2dd93787142b00551bd943.mp4\u0022",
+  "Link480p": "\u0022https://vwaw355.cda.pl/rXpNvhueTUrFyj7uTugG6Q/1690171331/lq2ff6afb1df2dd93787142b00551bd943.mp4\u0022",
+  "Link720p": "\u0022https://vwaw721.cda.pl/Pi8DMlJHSAXYCDFmmLdwNg/1690171330/sd2ff6afb1df2dd93787142b00551bd943.mp4\u0022",
+  "Link1080p": "\u0022https://vger012.cda.pl/Qtst8e7q0-uEHME1zedC4g/1690171328/hd2ff6afb1df2dd93787142b00551bd943.mp4\u0022"
+}
