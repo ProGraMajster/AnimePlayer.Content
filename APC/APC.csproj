@@ -43,7 +43,6 @@
     <Content Include="TitleComments\**" />
     <Content Include="Web\**" />
     <Content Include="ItemGroups\**" />
-    <Content Include="CdaVideo\**" />
   </ItemGroup>
   <ItemGroup>
     <None Include="NewsRssMal.json" />
