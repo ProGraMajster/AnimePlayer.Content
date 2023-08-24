@@ -25,7 +25,7 @@
     "Type": "TV",
     "Status": "Emitowane",
     "DateOfIssue": "05.07.2023 18:56:05",
-    "EndOfIssue": "05.07.2023 18:56:05",
+    "EndOfIssue": null,
     "NumberOfEpisodes": "12",
     "Studio": [
       "Square Enix",
