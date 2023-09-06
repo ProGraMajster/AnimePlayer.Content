@@ -30,7 +30,7 @@
     "Type": "TV",
     "Status": "Emitowane",
     "DateOfIssue": "10.07.2023 18:12:24",
-    "EndOfIssue": "06.09.2023 18:12:24",
+    "EndOfIssue": null,
     "NumberOfEpisodes": "12",
     "Studio": [
       "Frontier Works",
