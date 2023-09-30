@@ -1,13 +1,26 @@
 {
   "Title": "One Piece",
   "LinkToIcon": [
-    "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1178/92469l.jpg",
-    "https://cdn.myanimelist.net/images/anime/10/66965l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1249/102615l.jpg",
-    "https://cdn.myanimelist.net/images/anime/1245/113406l.jpg",
-    "https://m.media-amazon.com/images/M/MV5BNTI2M2ZjODctNjc2OS00ZjhjLThjYjEtYmIwMzg4ZTFlZTcyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1182_.jpg"
+    "https://api-cdn.myanimelist.net/images/anime/5/19082l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/11/20870l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/5/20871l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/7/56951l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/10/66965l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/6/73245l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1178/92469l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1386/100624l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1249/102615l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1056/109094l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1460/110427l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1245/113406l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1451/114315l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1706/114807l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1460/119974l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1011/120243l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1113/121055l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1860/123979l.jpg",
+    "https://api-cdn.myanimelist.net/images/anime/1026/135253l.jpg"
   ],
-  "LinksToDownloadContent": [],
+  "LinksToDownloadContent": null,
   "S_ID": null
 }
