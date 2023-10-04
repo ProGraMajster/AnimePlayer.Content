@@ -127,5 +127,8 @@
     <None Include="PreviewItems\Yakusoku no Neverland.json" />
     <None Include="PreviewItems\Yofukashi no Uta.json" />
   </ItemGroup>
+  <ItemGroup>
+    <Folder Include="RelatedTitle\" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -27,9 +27,9 @@
     ],
     "Archetype": "Manga",
     "Type": "TV",
-    "Status": "Emitowane",
-    "DateOfIssue": "01.07.2023 16:41:13",
-    "EndOfIssue": null,
+    "Status": "Zakończone",
+    "DateOfIssue": "01.07.2023",
+    "EndOfIssue": "23.09.2023",
     "NumberOfEpisodes": "13",
     "Studio": [
       "Aniplex",
