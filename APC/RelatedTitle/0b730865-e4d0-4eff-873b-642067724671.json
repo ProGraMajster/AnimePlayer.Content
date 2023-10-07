@@ -1,10 +1,10 @@
 {
-  "RootTitle": "Classroom of the Elite",
+  "RootTitle": "Classroom of the Elite 2",
   "RelatedTitles": [
     {
-      "Title": "Classroom of the Elite 2",
+      "Title": "Classroom of the Elite",
       "SID": "",
-      "TypeRelatedTitle": 0,
+      "TypeRelatedTitle": 1,
       "Guid": "00000000-0000-0000-0000-000000000000"
     }
   ],
