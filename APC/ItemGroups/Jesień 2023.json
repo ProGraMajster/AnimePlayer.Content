@@ -1,5 +1,5 @@
 {
-  "Name": "Z roku 2023",
+  "Name": "Jesień 2023",
   "Description": "",
   "ItemNames": [
     "Sousou no Frieren",
@@ -70,8 +70,8 @@
     "Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai",
     "Pole Princess!! Movie",
     "Yaneura no Rudger",
-    "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… Movie",
+    "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… Movie"
   ],
-    "ItemIds": null,
-    "GetFromSortingContent": "DateOfIssue;2023"
-  }
+  "ItemIds": null,
+  "GetFromSortingContent": ""
+}
