@@ -73,5 +73,5 @@
     "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta… Movie"
   ],
   "ItemIds": null,
-  "GetFromSortingContent": ""
+  "GetFromSortingContent": "ManagerUI.GroupPanel.Insert;1"
 }
