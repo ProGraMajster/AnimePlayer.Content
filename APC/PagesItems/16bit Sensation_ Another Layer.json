@@ -22,8 +22,8 @@
     "Archetype": "Web manga",
     "Type": "TV",
     "Status": "Emitowane",
-    "DateOfIssue": "05.10.2023 19:14:54",
-    "EndOfIssue": "29.10.2023 19:14:54",
+    "DateOfIssue": "05.10.2023",
+    "EndOfIssue": null,
     "NumberOfEpisodes": "13",
     "Studio": [
       "Aniplex",
