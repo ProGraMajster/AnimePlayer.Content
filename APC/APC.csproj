@@ -44,6 +44,8 @@
     <Content Include="Web\**" />
     <Content Include="ItemGroups\**" />
     <Content Include="ScrapedOff\**" />
+    <Content Include="EpisodesInformation\**" />
+    <Content Include="RelatedTitle\**" />
   </ItemGroup>
   <ItemGroup>
     <None Include="NewsRssMal.json" />
@@ -126,9 +128,6 @@
     <None Include="PreviewItems\Violet Evergarden.json" />
     <None Include="PreviewItems\Yakusoku no Neverland.json" />
     <None Include="PreviewItems\Yofukashi no Uta.json" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="RelatedTitle\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
