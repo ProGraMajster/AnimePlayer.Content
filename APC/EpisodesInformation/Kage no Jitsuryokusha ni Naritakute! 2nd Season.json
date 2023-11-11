@@ -144,6 +144,19 @@
       "DateTimeAired": "2023-12-13T16:28:35.653",
       "LinksToImage": null
     }
+    {
+      "Aired": false,
+      "Delayed": false,
+      "Translated": false,
+      "DateTimeDelayed": "0001-01-01T00:00:00",
+      "AnimeTitle": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+      "EpisodeTitle": "",
+      "EpisodeDescription": "",
+      "Duration": 0,
+      "Number": 12,
+      "DateTimeAired": "2023-12-19T16:28:35.653",
+      "LinksToImage": null
+    }
   ],
   "GuidAnime": "00000000-0000-0000-0000-000000000000"
 }
