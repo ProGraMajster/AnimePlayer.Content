@@ -106,9 +106,9 @@
       "LinksToImage": null
     },
     {
-      "Aired": false,
+      "Aired": true,
       "Delayed": false,
-      "Translated": false,
+      "Translated": true,
       "DateTimeDelayed": "0001-01-01T00:00:00",
       "AnimeTitle": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
       "EpisodeTitle": "Klucz",
