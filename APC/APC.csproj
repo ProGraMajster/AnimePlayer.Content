@@ -39,6 +39,7 @@
     <Content Include="News\**" />
     <Content Include="PagesItems\**" />
     <Content Include="SettingsNotForUser\**" />
+    <Content Include="version.txt" />
     <Content Include="VideosItems\**" />
     <Content Include="TitleComments\**" />
     <Content Include="Web\**" />
