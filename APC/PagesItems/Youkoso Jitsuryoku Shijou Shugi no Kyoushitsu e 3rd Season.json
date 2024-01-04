@@ -34,7 +34,7 @@
     "Type": "TV",
     "Status": "Emitowane",
     "DateOfIssue": "03.01.2024 15:13:57",
-    "EndOfIssue": "04.01.2024 15:13:57",
+    "EndOfIssue": null,
     "NumberOfEpisodes": "12",
     "Studio": [
       "Lerche",
