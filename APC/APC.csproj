@@ -43,7 +43,6 @@
     <Content Include="VideosItems\**" />
     <Content Include="TitleComments\**" />
     <Content Include="Web\**" />
-    <Content Include="ItemGroups\Jesień 2023.json" />
     <Content Include="ItemGroups\Z roku 2023.json" />
     <Content Include="ScrapedOff\**" />
     <Content Include="EpisodesInformation\**" />
