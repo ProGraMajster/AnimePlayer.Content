@@ -1,0 +1,44 @@
+{
+  "TitleInformation": {
+    "Title": "Wind Breaker",
+    "OtherTitle": [
+      "\u30A6\u30A3\u30F3\u30C9\u30D6\u30EC\u30A4\u30AB\u30FC",
+      "Winbre"
+    ],
+    "Description": "Odrzucony przez spo\u0142ecze\u0144stwo z powodu swojego wygl\u0105du, Haruka Sakura postanawia przeprowadzi\u0107 si\u0119 do miasta Makochi, aby rozpocz\u0105\u0107 nauk\u0119 w Liceum Furin, niechlubnie okrzykni\u0119tym szko\u0142\u0105 pe\u0142n\u0105 chuligan\u00F3w. Nie interesuj\u0105 go \u201Efrajerzy\u201D gn\u0119bi\u0105cy s\u0142abszych, a najsilniejsi stoj\u0105cy na szczycie. Jego cel jest jeden, zosta\u0107 liderem gangu Bofurin. Ma wizj\u0119 o Furin, jednak\u017Ce mija si\u0119 ona z prawd\u0105, a cz\u0142onkowie Bofurin pomimo bycia chuliganami s\u0105 uwa\u017Cani za bohater\u00F3w przez tamtejszych miejscowych.\nTak oto zaczyna si\u0119 historia bohatera, kt\u00F3ry z samotnego wilka staje si\u0119 cz\u0119\u015Bci\u0105 watahy staj\u0105cej w obronie bezbronnych mieszka\u0144c\u00F3w.",
+    "Species": [
+      "Szkolne",
+      "Sztuki walki"
+    ],
+    "TargetGroups": "Shounen",
+    "TypesOfCharacters": [
+      "Uczniowie",
+      "Delikwenci",
+      "Heterochromia"
+    ],
+    "PlaceAndTime": [],
+    "OtherTags": [
+      "Przemoc",
+      "Walka wr\u0119cz"
+    ],
+    "Archetype": "Web manga",
+    "Type": "TV",
+    "Status": "Emitowane",
+    "DateOfIssue": "05.04.2024",
+    "EndOfIssue": null,
+    "NumberOfEpisodes": "12",
+    "Studio": [
+      "Aniplex",
+      "Kodansha",
+      "Mainichi Broadcasting System",
+      "Crunchyroll",
+      "CloverWorks"
+    ],
+    "EpisodeLength": "23",
+    "MPAA": "PG-13"
+  },
+  "RelatedTitles": null,
+  "S_ID": "Wind Breaker",
+  "Guid": "b7378985-b33d-45ca-b2c9-8756bb2100be",
+  "FileCrator": null
+}

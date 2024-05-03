@@ -1,0 +1,52 @@
+{
+  "TitleInformation": {
+    "Title": "Ninja Kamui",
+    "OtherTitle": [],
+    "Description": "G\u0142\u00F3wny bohater, Joe Higanie jest nukenienem, czyli by\u0142ym ninj\u0105, kt\u00F3ry zdradzi\u0142 sw\u00F3j klan. Joe pr\u00F3buje si\u0119 schowa\u0107 wraz ze swoj\u0105 rodzin\u0105 przed mroczn\u0105 przesz\u0142o\u015Bci\u0105 na wsi w Ameryce, jednak pewnej nocy Joe i jego rodzina zostaj\u0105 zaatakowani przez zab\u00F3jc\u00F3w z dawnej organizacji g\u0142\u00F3wnego bohatera. Wszyscy zostaj\u0105 zabici jako kara za z\u0142amanie staro\u017Cytnego kodeksu ninja.\nJoe po przebudzeniu si\u0119 ze swojej pozornej \u015Bmierci postanawia powr\u00F3ci\u0107 do swojego dawnego \u201Eja\u201D jako ninja kamui. Nasz anachronista b\u0119dzie musia\u0142 walczy\u0107 z zaawansowanymi technicznie cyborgami, wyszkolonymi zab\u00F3jcami i innymi ninjami, aby obali\u0107 klan, kt\u00F3ry go stworzy\u0142 i pom\u015Bci\u0107 swoich bliskich.",
+    "Species": [
+      "Akcja",
+      "Dramat",
+      "Tajemnica",
+      "Kryminalne",
+      "Sztuki walki",
+      "Mecha",
+      "Sci-Fi",
+      "Thriller",
+      "Przygodowe",
+      "Psychologiczne"
+    ],
+    "TargetGroups": "Shounen",
+    "TypesOfCharacters": [
+      "Ninja",
+      "Cyborgi",
+      "Morderca",
+      "Policjanci",
+      "Androidy",
+      "Samuraje"
+    ],
+    "PlaceAndTime": [
+      "Przysz\u0142o\u015B\u0107",
+      "Ameryka P\u00F3\u0142nocna"
+    ],
+    "OtherTags": [
+      "Zemsta",
+      "Walka wr\u0119cz",
+      "Przemoc"
+    ],
+    "Archetype": "Seria oryginalna",
+    "Type": "TV",
+    "Status": "Emitowane",
+    "DateOfIssue": "11.02.2024",
+    "EndOfIssue": null,
+    "NumberOfEpisodes": "13",
+    "Studio": [
+      "E\u0026H Production"
+    ],
+    "EpisodeLength": "23",
+    "MPAA": "R"
+  },
+  "RelatedTitles": null,
+  "S_ID": "Ninja Kamui",
+  "Guid": "ce6f330e-8215-4276-8298-d5d877f0bec3",
+  "FileCrator": null
+}
