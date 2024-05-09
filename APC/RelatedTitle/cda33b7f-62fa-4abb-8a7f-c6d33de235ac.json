@@ -1,13 +1,19 @@
 {
-  "RootTitle": "Kage no Jitsuryokusha ni Naritakute! 2nd Season",
+  "RootTitle": "Classroom of the Elite 2",
   "RelatedTitles": [
     {
-      "Title": "Kage no Jitsuryokusha ni Naritakute!",
+      "Title": "Classroom of the Elite",
       "SID": "",
       "TypeRelatedTitle": 1,
       "Guid": "00000000-0000-0000-0000-000000000000"
+    },
+    {
+      "Title": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season",
+      "SID": "",
+      "TypeRelatedTitle": 0,
+      "Guid": "00000000-0000-0000-0000-000000000000"
     }
   ],
-  "Guid": "cda33b7f-62fa-4abb-8a7f-c6d33de235ac",
+  "Guid": "0b730865-e4d0-4eff-873b-642067724671",
   "FileCrator": null
 }
